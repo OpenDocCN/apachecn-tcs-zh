@@ -36,7 +36,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 团结、勇气和绝不动摇的忠诚是人类最大的优点。——《动物园规则怪谈》
+> 那一年我们望着星空，未来的未来从没想过。当故事失去美梦，美梦失去线索，而我们失去联络。——五月天《星空》
 
 * [在线阅读](https://{domain}.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
