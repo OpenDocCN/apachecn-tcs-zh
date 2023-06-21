@@ -25,7 +25,7 @@
         {color}：显示颜色
         {repo}：ApacheCN 的 Github 仓库名称
 
-    asset/docsify-apachecn-footer.js
+    asset/docsify-flygon-footer.js
     
         {repo}：ApacheCN 的 Github 仓库名称
 -->
@@ -38,7 +38,7 @@
 > 
 > 那一年我们望着星空，未来的未来从没想过。当故事失去美梦，美梦失去线索，而我们失去联络。——五月天《星空》
 
-* [在线阅读](https://{domain}.apachecn.org)
+* [在线阅读](https://{domain}.flygon.net)
 ## 下载
 
 ### Docker
